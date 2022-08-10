@@ -14,7 +14,6 @@ const SingleMovies = () => {
     country: "",
     poster: "",
   });
-  // const api = `http://www.omdbapi.com/?apikey=74f2d4e9&i=${id}`;
   const getData = async (url) => {
     try {
       const res = await fetch(url);
