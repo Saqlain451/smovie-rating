@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smovie-rating/static/css/main.4ce6602e.css",
+    "main.js": "/smovie-rating/static/js/main.3bba71d3.js",
+    "static/js/787.01b22889.chunk.js": "/smovie-rating/static/js/787.01b22889.chunk.js",
+    "index.html": "/smovie-rating/index.html",
+    "main.4ce6602e.css.map": "/smovie-rating/static/css/main.4ce6602e.css.map",
+    "main.3bba71d3.js.map": "/smovie-rating/static/js/main.3bba71d3.js.map",
+    "787.01b22889.chunk.js.map": "/smovie-rating/static/js/787.01b22889.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ce6602e.css",
+    "static/js/main.3bba71d3.js"
+  ]
+}
