@@ -3,7 +3,7 @@ import { useState } from "react";
 import { useEffect } from "react";
 import { useContext } from "react";
 const AppContext = React.createContext();
-// const api = `http://www.omdbapi.com/?apikey=74f2d4e9`;
+
 
 const AppProvider = ({ children }) => {
   const [search, setSearch] = useState("titanic");
